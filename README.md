@@ -38,7 +38,6 @@ Pandas
 Matplotlib
 Jupyter Notebook
 
-📁 프로젝트 구조
 kotlin
 project/
 ├── data/
@@ -48,6 +47,7 @@ project/
 ├── images/
 │   └── visualization.png
 └── README.md
+
 📈 주요 결과
 반월당 지역의 유동인구는 학정동에 비해 현저히 높으며, 아파트 가격 또한 높은 경향을 보였습니다.
 
