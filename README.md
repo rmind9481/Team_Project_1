@@ -32,13 +32,7 @@
 
 통계 분석: 유동인구와 아파트 가격 간의 상관관계를 분석하였습니다.
 
-🛠 사용 기술
-Python
-Pandas
-Matplotlib
-Jupyter Notebook
-
-kotlin
+```
 project/
 ├── data/
 │   └── apartment_data.csv
@@ -47,6 +41,8 @@ project/
 ├── images/
 │   └── visualization.png
 └── README.md
+```
+
 
 📈 주요 결과
 반월당 지역의 유동인구는 학정동에 비해 현저히 높으며, 아파트 가격 또한 높은 경향을 보였습니다.
